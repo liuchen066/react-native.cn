@@ -1,5 +1,12 @@
 [
 	{
+		"name": "精准扶贫",
+		"desc": "精准扶贫第三方测评问卷采集",
+		"ios": "https://itunes.apple.com/cn/app/id1228037708?mt=8",
+		"android": "http://wjgl.rbwh.cn:8089/wjgl/app/down",
+		"icon": "http://wjgl.rbwh.cn:8089/wjgl/medias/img/ic_launcher.png"
+	},
+	{
 		"name": "漂漂共享书",
 		"desc": "与朋友同事分享纸质图书",
 		"ios": "https://itunes.apple.com/cn/app/id1201678520?ls=1&mt=8",
